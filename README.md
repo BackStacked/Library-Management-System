@@ -132,6 +132,17 @@ This is a **FastAPI-based Library Management System** with user authentication, 
 
 ---
 
+## ⚡ Environment Setup
+
+This project requires environment variables.
+Copy the example file and rename it:
+
+```bash
+cp .env.example .env
+```
+
+Then, update `.env` with your values (e.g., database URL, JWT secret, etc.).
+
 ## ▶️ Running the Project
 
 ```bash
